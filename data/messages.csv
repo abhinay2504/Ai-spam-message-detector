@@ -1,0 +1,46 @@
+text,label
+"Congratulations! You have won a free prize. Claim now",spam
+"URGENT: You have been selected for a cash reward",spam
+"Win a brand new phone by clicking this link",spam
+"Claim your free gift card today",spam
+"You have won lottery money. Send your details",spam
+"Limited offer! Buy now and get 90 percent off",spam
+"Earn money fast from home. Sign up today",spam
+"Your account is blocked. Verify your password here",spam
+"Free entry in our weekly prize draw",spam
+"Get cheap loans instantly. Apply now",spam
+"You are a lucky winner. Call this number",spam
+"Act now to receive your exclusive bonus",spam
+"Click here to claim your free vacation",spam
+"Congratulations! Your mobile number won a reward",spam
+"Make thousands every week with no experience",spam
+"Your package is waiting. Pay a small fee here",spam
+"Exclusive deal expires today. Buy now",spam
+"You have been chosen for a free membership",spam
+"Get cash back immediately. Visit this link",spam
+"Final warning: claim your prize before it expires",spam
+"Hey, are we still meeting for lunch tomorrow?",ham
+"Please send me the notes from today's class",ham
+"I will reach home in about twenty minutes",ham
+"Can you call me when you are free?",ham
+"The meeting has been moved to 3 pm",ham
+"Don't forget to bring your notebook",ham
+"Happy birthday! Hope you have a wonderful day",ham
+"I have shared the project document with you",ham
+"Are you coming to the office today?",ham
+"Thanks for helping me with the assignment",ham
+"Let's discuss the interview preparation later",ham
+"Your appointment is confirmed for Monday",ham
+"Please review the attached report",ham
+"I am on my way. See you soon",ham
+"Can we reschedule our call to tomorrow?",ham
+"The train is delayed by fifteen minutes",ham
+"Dinner is ready. Please come downstairs",ham
+"I finished the coding task and pushed the changes",ham
+"Could you explain this Python function to me?",ham
+"See you at the library after class",ham
+"Please remember to submit the form by Friday",ham
+"I will share the presentation slides tonight",ham
+"Your order has been delivered successfully",ham
+"Let me know if you need any help",ham
+"We are planning a team lunch next week",ham
